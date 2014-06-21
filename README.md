@@ -17,7 +17,7 @@ Repository content
 Files summary:
 --------------
     
-  * 1. The first one, is what you are reading right now (if opened .html), explains how all of the scripts work . 
+  * 1. The first one, is what you are reading right now (if opened .html), explains how all of the scripts work (must be opened in a browser) . 
   * 2. The second one, is the markdown source for first one.  
   * 3. The third is the project's required R script. By running it (with some required updates in path to data) you should get the two files required by project statements;  
   * 4. The fourth is what you get running well configured "run_analysis.R" script.
